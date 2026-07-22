@@ -26,11 +26,17 @@ Excited to share my latest Data Analytics project, where I designed an interacti
 🏷️ Total Brands: 17
 
 🔍 Key Insights
+
 Europe generated the highest sales and profit among all regions.
+
 USA led country-wise sales and profitability.
+
 Household and Personal Care categories contributed significantly to overall profit.
+
 Wholesale and Modern Trade channels were the strongest revenue contributors.
+
 Monthly trend analysis revealed seasonal fluctuations, supporting demand forecasting.
+
 Salesperson and brand performance analysis highlighted top contributors for targeted business strategies.
 
 🛠️ Tools & Skills Used
