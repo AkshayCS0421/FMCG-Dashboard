@@ -40,12 +40,19 @@ Monthly trend analysis revealed seasonal fluctuations, supporting demand forecas
 Salesperson and brand performance analysis highlighted top contributors for targeted business strategies.
 
 🛠️ Tools & Skills Used
+
 Microsoft Excel
+
 Pivot Tables & Pivot Charts
+
 Power Query
+
 Data Cleaning & Transformation
+
 Slicers & Timeline Filters
+
 Interactive Dashboard Design
+
 KPI Reporting & Business Analysis
 
 💼 Business Impact
